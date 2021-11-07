@@ -1,5 +1,7 @@
+![](https://github.com/DivyaRIyer/DivyaRIyer/blob/main/Linkedln%20Banner%203.png)
+
 <h1 align="center">Hello 👋, I'm Divya Iyer</h1>
-<h3 align="center">A developer and Data Science Enthusiast from India</h3>
+<h3 align="center">A Developer and Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyariyer&label=Profile%20views&color=0e75b6&style=flat" alt="divyariyer" /> </p>
 
